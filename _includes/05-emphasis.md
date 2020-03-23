@@ -1,1 +1,1 @@
-Write out some of your awesome attributes, and use emphasis (like bold or italics) to identify keywords, programming languages, or skills. 
+I have lot of cool experiences.  They include **graduate study** at *Auburn University* and *Carnegie Mellon University*, **post-doctoral work** through an Oak Ridge Institute for Science Engineering fellowship with the *National Energy Technology Laboratory* and hosted at *Carnegie Mellon University* and *Stanford University*, and am currently an **Assistant Professor** at *The Ohio State University*. 
